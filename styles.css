@@ -20,32 +20,3 @@ a {
     color: #007acc;
     text-decoration: none;
 }
-
-h2 {
-    padding-bottom: 4px;
-}
-
-.nav-links {
-    display: flex;
-    list-style: none;
-    padding-top: 20px;
-    justify-content: end;
-}
-
-.nav-links > li > a {
-    padding-left: 10px;
-    font-size: 18px;
-}
-
-.nav-links > li > a:hover {
-    font-weight: bold;
-}
-
-.main-section {
-    padding-top: 20px;
-}
-
-.introduction-image {
-    width: 200px;
-    padding-bottom: 8px;
-}
