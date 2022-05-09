@@ -1,7 +1,7 @@
 const template = document.createElement("template");
 
 template.innerHTML = `
-  <nav>
+  <nav class="nav-container">
     <ul class="list-links nav-links">
       <li class="list-link margin-list-link">
         <a href="./index.html">Home</a>
