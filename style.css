@@ -21,10 +21,6 @@ a {
     text-decoration: none;
 }
 
-h2 {
-    padding-bottom: 4px;
-}
-
 .nav-links {
     display: flex;
     list-style: none;
@@ -41,11 +37,10 @@ h2 {
     font-weight: bold;
 }
 
-.main-section {
-    padding-top: 20px;
+h2 {
+    padding-bottom: 4px;
 }
 
-.introduction-image {
-    width: 200px;
-    padding-bottom: 8px;
+.section {
+    padding-top: 20px;
 }
