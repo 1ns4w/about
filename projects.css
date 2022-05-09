@@ -1,0 +1,24 @@
+.list-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links {
+    justify-content: end;
+}
+
+.margin-list-link {
+    margin-right: 10px;
+}
+
+.list-link {
+    font-size: 18px;
+}
+
+.list-link:hover {
+    font-weight: bold;
+}
+
+.section {
+    padding-top: 20px;
+}
