@@ -42,3 +42,11 @@ a {
 .list-link:hover {
     font-weight: bold;
 }
+
+.section-title {
+    margin-bottom: 4px;
+}
+
+.section {
+    padding-top: 20px;
+}

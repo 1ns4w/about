@@ -1,24 +1,27 @@
-.list-links {
+
+.projects-row {
     display: flex;
-    list-style: none;
 }
 
-.nav-links {
-    justify-content: end;
+.project {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0, 0, 0, 0.466);
+    box-sizing: border-box;
 }
 
-.margin-list-link {
-    margin-right: 10px;
+.project-image {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
 }
 
-.list-link {
-    font-size: 18px;
-}
-
-.list-link:hover {
-    font-weight: bold;
-}
-
-.section {
-    padding-top: 20px;
+.project-information {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
 }

@@ -9,10 +9,6 @@
     position: absolute;
 }
 
-.section {
-    padding-top: 20px;
-}
-
 .social-link {
     margin-top: 4px;
 }
@@ -38,5 +34,4 @@
 
 .name {
     margin-top: 6px;
-    margin-bottom: 4px;
 }
